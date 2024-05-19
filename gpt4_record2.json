@@ -1,0 +1,1102 @@
+[
+    {
+        "Kicker": "\\THOUGHT{Since there are no past records to analyze, I'll have to rely on instinct and some unpredictability for this shot.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Since there are no past records to analyze and predict the kicker's behavior, I will have to rely on a random guess or intuition.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{From the previous record, the goalie moved to the left when I kicked left, intercepting my shot. The goalie might predict I'll change direction, but I suspect they'll guard the same side again considering it was successful last time.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reflecting on the previous encounter, it appears the kicker chose LEFT and I successfully defended it by also going LEFT. There's a chance the kicker might switch strategies this time, anticipating a similar move from me.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at our past encounters, every time I've chosen a direction, the goalie has successfully predicted and blocked it. Therefore, to increase my chances of scoring, I should consider switching my choice this time.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on the past records, I've successfully saved goals to both the left and right when the kicker chose the same side. There is no consistent pattern observed in the kicker's choices or a dominant side.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, the goalie has successfully blocked all my shots when I kicked in the same direction he anticipated. It might be time to switch up my strategy and try something different to increase my chances of scoring.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker has favored shooting to the LEFT, where I successfully defended each time. Keeping this in mind, there's a good probability the kicker might attempt to change strategy and aim RIGHT to outsmart me, considering the successful blocks I made when we both chose LEFT.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{From the previous encounters, the goalie has successfully saved all my shots whether I kicked left or right. This suggests that the goalie might be good at reading my intentions based on my body language or preceding experiences. To increase the chance of scoring, I might consider changing my usual approach or adding some variability to my shot to make it less predictable.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, it seems that I have successfully stopped the kicker every time by mirroring their direction. The kicker hasn't changed their strategy thus far, suggesting that they may kick in the known pattern again.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the past records, every time I've chosen a direction, the goalie has guessed it correctly. This pattern suggests the goalie might be very good at reading my previous intentions or there is a predictable pattern in my choices. To mix things up and potentially outsmart the goalie, I might try repeating the same side again but execute with more precision or misdirection.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, it appears that every time I've matched the kicker's direction, I successfully saved the goal. The kicker has taken turns kicking left and right effectively, but I have a 100% success rate when I mirror their choice.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Considering the past experiences, each time I kicked either LEFT or RIGHT, the goalie matched it and saved the goal. I have chosen LEFT more frequently than RIGHT, and each time, the goalie also went LEFT and stopped the goal. To potentially increase my chances of scoring, it might be useful to switch my strategy and try to be unpredictable.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, it's evident that the kicker has mostly chosen LEFT, and each time, when I also chose LEFT, I was able to block the shot successfully. It appears the kicker has a strong preference or pattern of choosing LEFT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it appears that every time I've kicked to the LEFT, the goalie has predicted it and saved the goal except once when I kicked RIGHT and the goalie went LEFT. The goalie seems more likely to dive LEFT as that has been the more common successful defense. Thus, I might have a better chance scoring if I choose RIGHT again, assuming the goalie might anticipate me picking LEFT based on prior patterns.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing our previous encounters, I notice that the kicker has consistently chosen LEFT, except for two occasions when they chose RIGHT. In the instances where both of us chose the same direction (LEFT or RIGHT), I managed to save the goal every time. However, the one time I chose LEFT and the kicker chose RIGHT, the kicker scored. It seems that sticking to mirroring the kicker's more frequent choice of LEFT might continue to be successful.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it is notable that every time I kicked to the same side as the goalie, the goalie won. In cases where I have kicked RIGHT and the goalie chose LEFT, I succeeded in scoring. Hence, there is a pattern where diverting from the goalie\u2019s anticipated side improves my chances of scoring.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the records, whenever I matched the direction of the kicker (LEFT with LEFT, RIGHT with RIGHT), I saved the goal. Only when I chose LEFT and the kicker went RIGHT did they score. It appears that matching the kicker\u2019s choice has been most successful historically.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past shootouts, every time I kicked left and the goalie also chose left, the goalie won. When I kicked right and the goalie went left, I won each time. I should consider this pattern while deciding my next move.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, each time I chose the same direction as the kicker, I successfully blocked the shot. The kicker tends to choose LEFT four times and RIGHT five times. Importantly, every time the kicker chose RIGHT and I went LEFT, the kicker scored. This indicates that matching my move with the kicker's usual choice might be more effective.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it appears kicking towards the RIGHT has been more successful when the goalie guesses LEFT. On the other hand, every time we have both chosen the same direction, the goalie has successfully blocked the kick. It seems like a strategic choice to go for RIGHT again, hoping the goalie might anticipate a change in pattern and dive LEFT this time.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker tends to be stopped successfully when I match their direction. The kicker has recently favored going RIGHT, but often succeeded when I chose LEFT, indicating that their strategy might be anticipating me to dive left again. It\u2019s a strategic move to counter their expected play by sticking to matching their direction rather than trying to predict a change.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Considering the historical data, it shows that whenever I kicked to the LEFT and the goalie also went LEFT, the goalie won every time. In contrast, when I chose RIGHT and the goalie chose LEFT, I scored each time. However, kicking RIGHT while the goalie also chose RIGHT, usually resulted in the goalie winning. The best chance to score seems to be kicking to the RIGHT expecting the goalie might dive LEFT based on previous data.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences where I've faced this kicker, I observe a strong pattern. Every time I chose the same side as the kicker's direction (LEFT against LEFT or RIGHT against RIGHT), I was successful in blocking the shot, except in instances where I deviated to the left while the kicker went right. It seems the kicker struggles to score when I match their chosen direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it appears that every time I kicked to the left and the goalie also chose left, the goalie won. When kicking to the right against the goalie's choice of right, the goalie similarly won most of the time. However, on three occasions when I kicked to the right and the goalie chose left, I scored every time. This suggests a tendency for success when I choose RIGHT and the goalie does not match my choice.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From past encounters, I've successfully blocked the kicker when diving in the same direction they kicked. When the kicker went LEFT, I won by also going LEFT every time. In cases where the kicker chose RIGHT and I opted for LEFT, the kicker scored each time. My success rate is highest when matching the kicker's direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on the past records, it's clear that I have never scored by kicking LEFT when the goalie also chooses LEFT, as the goalie always wins in these instances. However, when I've chosen RIGHT and the goalie chose LEFT, I've always won. The most recent kicks where both I and the goalie chose RIGHT, the goalie won, suggesting a tendency for the goalie to correctly predict and save my RIGHT kicks lately.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, the kicker tends to shoot more often to the RIGHT. Out of the 13 past attempts, 8 were to the RIGHT. When I chose RIGHT as my direction, I successfully stopped the ball 6 times out of 7, making RIGHT a statistically stronger choice for me considering current trends.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the record, every time I kicked to the LEFT and the goalie guessed LEFT, the goalie won. However, when I kicked RIGHT and the goalie went to their LEFT, I won most of the times except for one instance. On instances where both of us chose RIGHT, the goalie generally prevailed. Therefore, it would be strategic to choose LEFT, given the goalie has less success at stopping the ball on their RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, the kicker tends to score when I choose the opposite side of his kicking direction. Notably, I successfully defended all penalties directed to the left when I also chose left and the majority directed to the right when I chose right. However, when the kicker kicked left and I chose right, the kicker scored. The kicker also scored when I chose left while he kicked right. Given the consistent pattern, aligning my choice with the kicker's frequent direction appears to yield the best results.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{According to the history, when I kick to the RIGHT, the goalie tends to dive RIGHT as well, resulting in the goalie winning most of the time. However, when I choose to kick LEFT while the goalie dives RIGHT, it appears that I tend to score. The goalie seems to have a higher tendency to guess RIGHT recently, making LEFT a potentially more successful choice based on these patterns.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, I notice that when the kicker goes LEFT and I choose LEFT, they have been unsuccessful every time. Whenever the kicker goes RIGHT, I have been mostly successful by also choosing RIGHT except in cases when I chose LEFT. The records illustrate a pattern where I have had consistent success by matching the kicker's direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past meetings, it appears that kicking to the LEFT while the goalie dives to the RIGHT has resulted in goals each time. On the other hand, when both the kicker and goalie chose the same side (both LEFT or both RIGHT), the goalie consistently blocked the shot. It seems more strategic to aim LEFT, hoping that the goalie will predict a right-side kick based on recent trends.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the past data, it appears that every time I matched the kicker's direction when they chose LEFT and I also went LEFT, I won. However, when I chose RIGHT while the kicker went LEFT, the kicker won each time. This indicates a strong pattern that matching the kicker's LEFT choice with my LEFT dive results in success. Conversely, facing RIGHT kicks, choosing RIGHT also led to wins except three cases where I chose to dive LEFT and the kicker won. It seems matching the kicker's decision accurately has led to more victories.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the patterns, each time I kick LEFT and the goalie chooses LEFT, the goalie wins. Similarly, when I kick RIGHT and the goalie goes RIGHT, the goalie also wins. However, when I kick RIGHT and the goalie goes LEFT, I tend to win, and the same happens when I kick LEFT and the goalie goes RIGHT. The goalie seems to have a preference for staying on their chosen side once they pick a pattern, with recent trends showing them choosing RIGHT. It might be strategic to exploit their tendency to stay on one side.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on the past records, every time the kicker went LEFT and I also chose LEFT, I won. Meanwhile, when the kicker went RIGHT and I chose RIGHT, I generally also secured a win except for a few instances where I chose LEFT by mistake and lost. The pattern suggests that my best strategy is to mirror the kicker's most frequent successful direction. Noting recent trends might also help predict their next move. However, it appears matching their direction has been most effective.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, the goalie tends to save my shots when I kick to the same side they dive. However, when I've changed my kicking direction opposite to the goalie's expected dive based on previous patterns, I've been more successful. Notably, my kicks to the LEFT when the goalie anticipated RIGHT have consistently resulted in goals. This suggests a strategy of playing against the goalie's anticipation.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the patterns, the kicker mostly scores when I choose a direction opposite to their kicking. In cases where I matched their direction, I almost always saved the goal. Considering these observations, it is strategic to follow the kicker's common choice. Given the majority of LEFT from the kicker resulted in my wins when also choosing LEFT, and similarly for RIGHT, it would be beneficial to match the direction anticipated from the kicker.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on the previous outcomes, it appears that the goalie has a stronger tendency to dive LEFT more often when I kick LEFT and most of my successful goals when kicking LEFT were when the goalie dived RIGHT. Conversely, my kicks to the RIGHT have had more success overall, but they were frequently anticipated when the goalie also chose RIGHT. Lately, the goalie has been choosing RIGHT more often against my RIGHT kicks, possibly learning from past experiences. Given the history of my LEFT kicks making goals predominantly when the goalie dives RIGHT, and observing the goalie\u2019s recent preference for diving RIGHT, there seems to be a good chance of scoring by choosing LEFT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker seems to choose LEFT more frequently, with 11 occurrences against 8 for RIGHT. I have had success stopping the kicker when diving to the same side as their chosen direction, particularly when both were LEFT. Considering the higher frequency of LEFT choices and my previous successful stops, it seems prudent to anticipate LEFT again.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it's noticeable that when the goalie dives to the LEFT, I generally score when I kick RIGHT. Similarly, kicking LEFT when the goalie opts for RIGHT also results in scoring. The goalie seems to have more success guessing correctly when I kick LEFT, often choosing the same side. Given this pattern, there seems to be a higher chance of scoring by choosing a side opposite to my recent frequent choices.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing past interactions, when the kicker shoots LEFT and I dive LEFT, I consistently win. The winnings are less consistent when either of us chooses differently. Therefore, coordinating my dive with the kicker's more frequent LEFT choice should maximize my success.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking through the past events, there is a clear pattern that when I choose LEFT and the goalie also goes LEFT, the goalie wins most of the time. Similarly, when both of us go RIGHT, the goalie tends to win as well. However, when I kick to the RIGHT and the goalie dives LEFT, it often results in my win. Given this pattern, it seems promising to choose RIGHT, anticipating that the goalie might dive LEFT based on past tendencies where the goalie has dived LEFT more often after several RIGHT choices by me.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{The records indicate that whenever I chose LEFT and the kicker went LEFT, I successfully blocked the shot every time. Whenever I chose RIGHT and the kicker went RIGHT, I also had a high success rate. The kicker seems to miss more often when their choice matches my dive direction. However, I seem less successful when differing my dive from the kicker's direction, i.e., when I dive LEFT and the kicker shoots RIGHT, or vice versa. The kicker has recently been alternating between directions, but given my high success rate matching their choice, it's prudent to choose based on their more frequent past choices, which recently appears to be RIGHT more often.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it's observed that when I kick to the RIGHT, the goalie has more success in blocking when they also choose RIGHT. However, when I kick RIGHT and the goalie chooses LEFT, most of my shots result in goals. On the other hand, when I kick LEFT, the success is remarkably higher when the goalie mistakes by opting for RIGHT instead of their usual LEFT, leading to more goals for me. Given this pattern, my best chance seems to be to aim RIGHT, anticipating that the goalie might guess LEFT to try and counter my previous successful LEFT shots.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker tends to score when I dive LEFT and they shoot RIGHT, but when I match their chosen side, I tend to prevent the goal. Given the kicker has often been successful shooting to their RIGHT when I dive LEFT, and considering the number of times I've successfully stopped the ball by matching the kicker's side, my best chance is to anticipate the kicker choosing their previously successful side.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past interactions with the goalie reveals a pattern in the goalkeeper's responses and my success rates. When I kick LEFT and the goalie dives LEFT, the goalie often blocks the shot. However, when I kick RIGHT and the goalie dives LEFT, I tend to score more frequently. Therefore, choosing RIGHT might increase my chances of scoring since there's a higher likelihood the goalie might anticipate a left kick based on the successful blocks.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, the kicker seems to frequently alternate between LEFT and RIGHT. However, every time I've chosen LEFT when kicker went LEFT, I won, and likewise for RIGHT. My successes are higher when I match my choice with the kicker's previous tendency for the specific direction. Recent trends also suggest the kicker continues to prefer their last successful direction. Currently, RIGHT appears slightly more successful for the kicker.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it appears that kicking LEFT while the goalie guesses LEFT has always resulted in a win for the goalie. Similar observations apply when kicking RIGHT while the goalie guesses RIGHT. I have had more success, however, when I kick RIGHT but the goalie dives LEFT, or when I kick LEFT and the goalie dives RIGHT.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, it is clear that I have been very successful in stopping the ball when the kicker goes LEFT and I also choose LEFT, with a high success rate. Similarly, when both of us choose RIGHT, I have a strong record of saving those as well. My weaker moments come notably when I choose the opposite direction to the kicker. The kicker has a tendency of mostly succeeding when I guess the wrong side.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past experiences, I see a pattern where my successful shots frequently occur when I have kicked RIGHT, but the goalie anticipated LEFT. Shots taken to the LEFT when the goalie also dove LEFT have always resulted in him saving them. The greatest success rate is observed with RIGHT kicks when the goalie chooses incorrectly.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\THOUGHT{Analyzing the past records, the kicker tends to shoot LEFT more often than RIGHT. When diving LEFT, my success rate stopping LEFT shots is higher, while unsuccessful attempts mainly occur when guessing the opposite direction (RIGHT goalie vs LEFT kicker). Similarly, when the kicker chooses RIGHT, I have mostly saved those by matching the direction, i.e., diving RIGHT. Hence, matching the kicker's predicted direction has proven more successful.}\n\n\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it appears that when I kick LEFT and the goalie dives LEFT, the goalie nearly always stops the ball, as seen in multiple instances. However, when I kick RIGHT, there are several instances where even if the goalie dives LEFT, I score. This suggests that I have had more success with kicks to the RIGHT when the goalie anticipates incorrectly. The goalie also seems to have stopped many of my RIGHT kicks when diving RIGHT, but the overall chance of scoring seems better on the RIGHT side based on previous successes.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records indicates the kicker tends to score more often when I choose LEFT while they kick RIGHT. When diving LEFT against the kicker's LEFT, I have a higher success rate. Consequently, predicting based on this trend that the kicker would aim LEFT again, given my frequent success blocking in that direction, seems logical.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{After reviewing the past meetings, I notice that kicking to the RIGHT while the goalie dives LEFT has consistently led to scoring goals. When kicking LEFT, the goalie often correctly anticipates the direction, especially if they stayed LEFT. It might be more strategic to choose RIGHT, assuming the goalie might dive LEFT again based on previous successes from their perspective.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker has consistently failed when I, as the goalie, chose the same side as they kicked (both LEFT or RIGHT). Every time I diverged (RIGHT when they went LEFT and LEFT when they went RIGHT), the kicker scored. The pattern suggests the kicker struggles when I mirror their choice.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, when I kick to the LEFT and the goalie also goes LEFT, I almost always lose. However, when I kick to the RIGHT and the goalie goes LEFT, I usually score. Kicking RIGHT seems to have a higher chance of scoring based on past experiences, regardless of the goalie's dive to the LEFT. When the goalie anticipates RIGHT correctly, it often results in a save, but the chances are still favorably higher compared to kicking LEFT. Choosing RIGHT appears to be more strategically sound based on previous outcomes.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the past records, the kicker tends to score when I choose LEFT and they shoot RIGHT. Conversely, when they kick LEFT and I also choose LEFT, I have a high success rate. The decisions need to maximize the chances of success based on these patterns.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on previous encounters, the goalie tends to dive correctly more often when I kick to the left and stays on the left, leading to my defeat. When I kick right, especially when the goalie dives left, I score more often. It seems the goalie has a tendency to dive left slightly more often when I choose right, which works in my favor.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Examining the data, I notice that when the kicker goes LEFT and I also choose LEFT, I have a high success rate with only a few losses where I chose RIGHT instead. On the other hand, when the kicker chooses RIGHT, my decision to dive RIGHT generally results in a save, except when I incorrectly choose LEFT. Therefore, my strategy should align with these trends to maximize my chances of stopping the ball.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, the majority of success seems to come from the scenario where I kick RIGHT and the goalie goes LEFT. It seems that the goalie has a tendency to guess RIGHT more often when I kicked RIGHT, but this has also been where several of my goals have been scored due to goalie misjudgments. Choosing RIGHT might increase the chance of scoring, banking on the goalie's habit of occasionally moving left.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, it seems that the kicker has often chosen RIGHT, and whenever I have defended in the same direction as the kicker's choice (LEFT against LEFT or RIGHT against RIGHT), I have a higher chance of winning. While I have lost a few when diverging, the majority of my successful defenses were when matching the kicker's choice.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the past records, whenever I kicked LEFT and the goalie went RIGHT, I scored every time. The goalie seems to have a good guess rate when he chooses LEFT while I choose LEFT, stopping most of those shots. When I kicked RIGHT and the goalie went LEFT, I also scored. It appears that the goalie is more likely to stop me when both of us choose the same direction. Since the goalie has possibly caught onto the pattern of me kicking RIGHT recently, a strategic surprise might be to go LEFT expecting the goalie to dive RIGHT based on recent trends.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the previous encounters, when the kicker shoots RIGHT and I (Goalie) choose RIGHT as well, I mostly win. Conversely, when the kicker goes LEFT, my chances are also higher if I dive LEFT. This pattern suggests picking the side matching the kicker\u2019s more frequent successful side is a favorable strategy. Considering the most recent trends might also be useful, but the data strongly indicates sticking with these basic insights for now.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the previous records, it's clear whenever I choose RIGHT and the goalie guesses RIGHT, the goalie always succeeds. However, it appears that when I kick RIGHT and the goalie chooses LEFT, I usually score. The pattern is somewhat similar when I kick LEFT against the goalie's RIGHT. This suggests it might be best to kick in the opposite direction the goalie usually guesses for each side.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records between the kicker and me, the kicker tends to score more often when I dive LEFT and they aim RIGHT. Conversely, when I choose RIGHT and they go LEFT, they also tend to score. However, aligning my dive with the kicker's chosen direction has frequently resulted in saves especially when we both choose the same direction. Deciding based on success rates, diving in the same direction as the kicker's frequent choice might increase the chances of a save.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it appears that when I kicked left and the goalie chose right, I won every time. In contrast, when I kicked right and the goalie went right, I lost more often. It seems like the goalie has a better anticipation when I choose right.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing previous encounters, I notice that I've had greater success when choosing LEFT against LEFT and RIGHT against RIGHT outcomes of the kicker. The record shows more consistent wins when I match the kicker\u2019s choice rather than opposing it.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the previous encounters, the goalie often predicts my left kicks correctly and blocks them when I choose left and the goalie also dives left. However, I have a better success rate when I kick right regardless of the goalie's choice, especially noting my successful outcomes when the goalie dives left while I kick right. Therefore, kicking right might maximize my chances of scoring.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Examining the record of previous meetings, the kicker tends to score when I dive in the opposite direction of his kick. When diving in the same direction, I mostly stop the ball, especially recently. The kicker hasn't switched preferences often, continuing the pattern of primarily sticking to one side before switching. I should choose the side that has resulted in more successful stops.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past records, it appears that the goalie has predominantly anticipated my kicks correctly when I choose LEFT, leading to my loss. However, when I choose RIGHT, especially when the goalie commits to LEFT, I often score. The tendency suggests a strategic advantage in choosing RIGHT since the goalie often dives to the LEFT on such occasions.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, the kicker seems to favor going RIGHT frequently. The records also indicate better success for me as a goalie when I chose to dive LEFT while the kicker went RIGHT; however, I seem to have a stronger track record of saving when aligning my dive with the kicker\u2019s direction. Specifically, I have saved every penalty where I dove in the same direction the kicker shot.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{The historical data suggests that when shooting RIGHT while the goalie dives LEFT, I tend to win more frequently. Conversely, attempts to the LEFT when the goalie also anticipates LEFT have consistently been blocked. My shooting behaviour and goalie response patterns indicate a strategic advantage in favouring the RIGHT side, given the goalie's frequent decision to dive RIGHT coupled with a reasonable success rate when going opposite to the goalie\u2019s anticipated dive direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, I notice that the number of successful blocks is higher when I follow the kicker's direction. Specifically, when the kicker chooses RIGHT and I also go RIGHT, I more frequently prevent goals compared to when I choose LEFT in response to the kicker's RIGHT. Therefore, the strategy of mirroring the kicker's most commonly chosen direction should maximize my chances of stopping the penalty. Given that recently the kicker has a pattern of favoring RIGHT, I should prepare to dive in that direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it indicates that kicking RIGHT while the goalie guesses LEFT has consistently resulted in a goal. Whenever the goalie correctly predicts the direction, it is more likely they will block the shot. The goalie has a higher rate of going RIGHT recently, suggesting a strategy of choosing LEFT might catch them off guard based on the pattern.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past encounters with the kicker, it's noticeable that they favor shooting to the RIGHT. Each time I have chosen to dive LEFT while the kicker went RIGHT, the kicker scored. Conversely, when I've chosen RIGHT while the kicker also kicked towards the RIGHT, I've had more successful blocks. The pattern suggests that the kicker is possibly more skilled or confident shooting towards the RIGHT.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the historical performance, my success rate is higher when the goalie chooses LEFT and I kick RIGHT. In such cases, the goalie has often been unable to stop my shot. Furthermore, whenever I kicked LEFT and the goalie anticipated it, going LEFT as well, it always resulted in the goalie saving the shot. It appears the goalie has a strong tendency to correctly anticipate and stop shots when we both choose the same side. Given this pattern, I should aim for the side opposite of the goalie's last frequent choices, which recently seems to be RIGHT more often.}\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the historical data, the pattern indicates that when I've chosen to dive LEFT against a kicker shooting LEFT, I have been very successful. The same can be observed when I've chosen RIGHT against a rightward kick, leading to a greater number of saves. Whenever I've diverged from matching the direction of the kicker, the outcome has generally favored the kicker. Hence, aligning my dive with the expected direction of the kick seems the most prudent strategy based on the success rates recorded.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{After reviewing past records, it's apparent that I have a higher success rate when I kick to the RIGHT while the goalie jumps to the LEFT. The goalie tends to save most of my LEFT kicks, especially when they also dive LEFT. The goalie's anticipation skills might be better when predicting a LEFT kick. Therefore, choosing RIGHT could maximize my chances of scoring.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker tends to score more often when I dive LEFT and they kick RIGHT, and I successfully save most penalties when I match the direction they are kicking. The most common successful match-ups for saves are when we both choose the same direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the previous attempts, it appears that when I chose LEFT and the goalie also chose LEFT, I failed almost every time. However, when kicking LEFT and the goalie went RIGHT, I scored most of the time. On the contrary, when I chose RIGHT, I managed to score whenever the goalie chose LEFT, but failed frequently when the goalie also chose RIGHT. It seems the goalie has a strong inclination to dive RIGHT. To increase my chances, I should try to exploit the goalie's less frequent left dives.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, I noticed that whenever I chose the same side as the kicker, I mostly ended up winning. Specifically, when I went LEFT and the kicker chose LEFT, I won most times. Similarly, going RIGHT when the kicker went RIGHT also had a good success rate. Based on this trend, I should aim to choose the same direction that I anticipate the kicker will go.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it's clear that my success rates differ based on the direction I choose and the goalie's anticipation. The goalie often anticipates LEFT and dives LEFT when I kick LEFT, resulting in frequent saves. When I kick RIGHT while the goalie anticipates LEFT, I tend to score more often. Given this trend, aiming to the RIGHT might exploit the goalie's predisposition to dive to the opposite side.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From past experiences, it is evident that when the kicker goes LEFT and I dive LEFT, I mostly save the goal. However, similar success is observed when I dive RIGHT as the kicker shoots RIGHT. The kicker has scored frequently when I have incorrectly guessed the opposite direction. Trends suggest a balanced approach, but sticking to the strategy that aligns with the kicker's direction has had more success.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it appears that when I kick LEFT and the goalie goes RIGHT, I have a higher chance of scoring. Conversely, my RIGHT kicks are very often saved when the goalie also chooses RIGHT. Hence, choosing LEFT may increase my chances of scoring based on previous patterns where the goalie has often jumped to the RIGHT for my LEFT kicks.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, it shows I have had more success blocking kicks when both I and the kicker chose the same side. When I chose LEFT and the kicker kicked LEFT, I won many times. Similarly, when I chose RIGHT and the kicker kicked RIGHT, I also had a good success rate, although recently there have been mixed outcomes when I chose to dive RIGHT against a LEFT kick. However, the kicker tends to shoot more frequently towards the RIGHT. So, considering these trends, opting for RIGHT might cover the most common choice of the kicker.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it becomes evident that I have had much more success scoring when kicking LEFT while the goalie dives RIGHT. This pattern shows a clear trend where I score more frequently in this particular scenario. Conversely, when both I and the goalie choose the same direction (either LEFT or RIGHT), it often results in the goalie stopping the kick. Thus, it might be advantageous to kick LEFT, hoping the goalie dives RIGHT based on the observed pattern.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Upon reviewing the previous shootout outcomes, it's apparent that my success rates differ based on the kicker\u2019s choice. When the kicker goes LEFT and I go RIGHT, I often fail to stop the shot. However, when I match my move with the kicker\u2019s direction, my success rate improves significantly. The pattern suggests the kicker prefers shooting to their left, and when I dive to my left (the kicker's left), I tend to block effectively. Conversely, in instances where I choose LEFT while the kicker goes RIGHT, they score quite often, indicating a need to adapt my strategy based on their likely choice.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past records, it appears that when kicking LEFT while the goalie dives RIGHT, the success rate of scoring is higher compared to other combinations. The goalie has often been successful in blocking the shot when I kicked LEFT and they dived LEFT, and similarly when we both chose RIGHT. Hence, there is a good pattern of scoring when the goalie is expected to dive RIGHT, and I kick LEFT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Upon reviewing the history with the kicker, the pattern shows that I have been more successful in blocking shots when I dive in the same direction as the kicker's usual choice. Notably, I have had consistent success when I choose LEFT against the kicker's LEFT attempts and RIGHT against the kicker's RIGHT attempts. Only when I switch directions, the results were against my favor, indicating the kicker rarely changes their direction at the last minute.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Upon reviewing the past match-ups between me and the goalie, it is clear that when I kick to the LEFT and the goalie also dives LEFT, I always lose. Conversely, I have a higher success rate when I choose to go RIGHT and the goalie goes LEFT. In cases where I kick RIGHT and the goalie dives RIGHT, it's generally less successful, but there are occasions where the goalie instead dives to the LEFT, and I succeed. The goalie has chosen RIGHT more often lately, so I will take a chance in hoping they might dive LEFT this time.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Examining past experiences shows a consistent pattern; the kicker periodically tends to switch his strategy, likely trying to outsmart my choice. However, I have had more success when both the kicker and I stick to our respective choices (left vs. left or right vs. right). Notably, on recent shots, when the kicker shoots right and I also dive right, I've successfully blocked most of the attempts.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Examining past interactions, it's noticeable that the goalie tends to more frequently anticipate correctly when I kick LEFT, resulting in more saves. By contrast, my RIGHT kicks have seen more successes, especially when the goalie chooses LEFT.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past penalty shootout records, I see a pattern where I succeeded most times when I chose to dive in the same direction the kicker kicked. For kicks to the LEFT, I won 11 times when I dived LEFT and lost 6 times when I dived RIGHT. Conversely, for kicks to the RIGHT, I won 17 times when I dived RIGHT and lost 8 times when I dived LEFT. It indicates a higher success rate of choosing the corresponding direction of the kick.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on the past experiences, it appears that when I kick RIGHT and the goalie chooses LEFT, I tend to score more often. Conversely, kicking LEFT against the goalie's RIGHT also results in more goals for me compared to other combinations. It seems wise to pick a side where I've historically had more success in scoring.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, it shows that the kicker chooses 'RIGHT' quite frequently and I have a higher success rate saving those shots when I also dive to the RIGHT. Despite the shifts in their pattern, sticking to the RIGHT might be the safer option based on historical outcomes.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the past experiences, it appears that the goalie tends to stay more towards the RIGHT, successfully blocking shots in those directions in many cases. However, I have had a number of successful kicks when aiming LEFT and the goalie jumps RIGHT. This seems to suggest a slightly higher success rate when aiming LEFT particularly in recent attempts.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past records, when the kicker shoots LEFT and I choose LEFT, I predominantly win. On the other hand, when the kicker shoots RIGHT, choosing RIGHT as my direction also results in a consistent win. The occasions where I failed to block the shots are mostly when I chose the opposite direction. There's a strong pattern suggesting that mirroring the kicker's direction leads to success.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it appears that my kicks to the RIGHT when the goalie chooses LEFT consistently result in scores for me. Similarly, when I kick LEFT and the goalie guesses RIGHT, I also score. It's noticeable that the goalie has a tendency to dive RIGHT quite often. Given this pattern, there could be a higher chance of scoring by choosing LEFT assuming the goalie might dive RIGHT again.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the record, when the kicker kicks LEFT and I choose LEFT, I tend to win most times. Conversely, when the kicker kicks RIGHT and I choose RIGHT, I also mostly win. The kicker has a pattern of frequently choosing RIGHT, and my successful saves against this direction have been abundant when matching their choice.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, I notice I have had a higher success rate when I kick to the LEFT and the goalie dives to the RIGHT, compared to any other combination. Most times I have kicked LEFT and the goalie dived to the LEFT, I lost. Conversely, whenever I kicked RIGHT and the goalie dived LEFT, my chances were good, but he seems to dive LEFT less frequently recently and often correctly guesses RIGHT. Therefore, kicking LEFT might exploit his recent tendency to anticipate RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, it appears that when the kicker goes LEFT and I also go LEFT, I have a higher success rate of blocking the kick. On the contrary, if the kicker goes RIGHT and I choose LEFT, they generally score. Thus, it seems prudent to match the kicker's frequent choices with my dives.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on the past records, when I kick LEFT and the goalie chooses LEFT, it largely results in the goalie winning. Conversely, when I kick LEFT and the goalie chooses RIGHT, I tend to score. The trend shows that I have a higher chance of scoring when my kick direction is opposite to the goalie's anticipated move. If I choose RIGHT, recent success has been mixed depending on the goalie's choice; however, the goalie seems to have caught on to the RIGHT direction more effectively in recent attempts. Given these observations, the tactical decision would be to kick LEFT hoping the goalie moves RIGHT, based on the recent trend of goalie going RIGHT against LEFT kicks.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the history, when the kicker chose LEFT and I moved LEFT as well, I succeeded in stopping the kick most times. Similarly, when the kicker went RIGHT and I dove RIGHT, I again mostly saved the shots. Decisions need to be based on tracking the kicker's last few choices and any noticeable patterns.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{From reviewing the history, I observe that when I kick LEFT and the goalie dives RIGHT, I consistently score. Conversely, when I opt for RIGHT and the goalie stays RIGHT, my success rate diminishes. This pattern suggests the goalie has a stronger anticipation on my RIGHT kicks. Thus, kicking LEFT while hoping the goalie dives RIGHT could increase my chances of scoring.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the records of past penalties, it's evident that the choices of the kicker are fairly balanced between LEFT and RIGHT. However, the kicker tends to score more often when I choose RIGHT in response to their LEFT, whereas they are generally unsuccessful when I match their direction. This suggests that mirroring the kicker's direction has been more effective historically, leading to many instances where I successfully blocked the shot.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the provided penalty shootout history, I see that winning is more likely when I kick to the LEFT and the goalie dives to the RIGHT. The pattern suggests the goalie tends to dive to the RIGHT often, possibly predicting I will favor my RIGHT kicks which were more frequently blocked when the goalie chose RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on my previous interactions with the kicker, there is a clear pattern when the kicker chooses LEFT, and I've mostly succeeded by choosing LEFT as well. For kicks to the RIGHT, choosing RIGHT as my diving direction has also generally resulted in my success. It seems that mimicking the direction of the kicker often results in my favor.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking closely at the past outcomes, it appears that when I kick to the LEFT and the goalie chooses RIGHT, I consistently win. However, when both I and the goalie choose LEFT, I tend to lose. Conversely, my chances of scoring when kicking RIGHT improve notably if the goalie decides to dive LEFT. Therefore, it seems more strategic to choose LEFT, hoping that the goalie dives RIGHT, based on the higher success rate in those scenarios.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, it's noticeable that when guessing in the same direction as the kicker's choice, the chances of success are much higher. The kicker has shown a varying pattern, but sticking to the same side as chosen by the kicker has statistically led to more wins for me.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past outcomes, it appears that kicking LEFT when the goalie dives RIGHT generally results in a goal. Conversely, when I kicked LEFT and the goalie also chose LEFT, the goalie tends to save it. Kicking RIGHT has had mixed results, but the goalie often guesses RIGHT correctly. Hence, it may be beneficial to kick LEFT expecting the goalie might dive RIGHT to capitalize on a potential mismatch.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker seems to score more often when I choose RIGHT and they kick LEFT. Conversely, when the kicker kicks RIGHT and I also go RIGHT, I usually prevent the goal. The pattern indicates choosing RIGHT might be an effective strategy given the kicker's past attempts and my success rate.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on the past records, it's clear that shooting LEFT while the goalie dives RIGHT results in more goals for me. The goalie often dives RIGHT when I kick LEFT, making it a successful strategy. On the contrary, kicking RIGHT more often results in the goalie successfully defending my shot, particularly if the goalie chooses RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Examining the past records, when the kicker goes LEFT and I dive LEFT, most outcomes are in my favor, indicating a high success rate when matching his LEFT kicks. In contrast, diving RIGHT against his LEFT kicks usually results in him scoring, showing a low success rate for that choice. Conversely, when the kicker goes RIGHT, my success rate is higher when diving RIGHT compared to diving LEFT, although the pattern isn't as clear as with the LEFT kicks. Overall, the safest approach appears to be matching the kicker's direction, which has shown a higher probability of success historically.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the historical data on our penalty shots, whenever I have kicked to the left and the goalie has anticipated correctly, the goalie has always won. Conversely, my kicks to the right seem to be slightly more successful, possibly because I have scored multiple times when the goalie chose left, even when the goalie guessed right, my chances were still proportionally better compared to kicking left. Thus, kicking right could be statistically more advantageous for me.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing past records, it's evident that when I choose LEFT as the goalie and the kicker also aims LEFT, I consistently stop the ball. However, when I choose RIGHT against a left kick, the kicker usually scores. On the other hand, when facing right kicks, I have a strong record of saves when I decide to dive RIGHT. Therefore, choosing based on the kicker's most common and successful kick direction will likely increase my chances of stopping the penalty.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the record, it appears that when I kick LEFT and the goalie goes RIGHT, I have mostly won. Whenever I kicked left and the goalie also chose left, I have always lost. For kicks to the RIGHT, the goalie has guessed RIGHT most of the time leading to many losses for me except when they chose LEFT. Based on past performance, kicking LEFT might have a better chance of scoring assuming the goalie might guess RIGHT, trying to anticipate the pattern.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the previous encounters, the instances when I chose LEFT as the goalie and the kicker chose LEFT, I won most of the time. Conversely, when I chose RIGHT and the kicker went LEFT, the kicker often scored. Since the kicker has scored more often when kicking to their LEFT irrespective of my decision to dive LEFT or RIGHT, it might be safer to favor diving LEFT based on historical success.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Observing the pattern in past shootouts, it seems the goalie has been highly successful at stopping the ball when I kick to the same direction as his dive, particularly when I go LEFT and he also chooses LEFT. However, there has been a notable set of successes when I kick LEFT and the goalie dives RIGHT, indicating a weaker defense on his part towards his right side. Additionally, my recent attempts to the RIGHT when the goalie also went RIGHT have all resulted in goals for the goalie. I should therefore capitalize on the goalie's weaker right dive.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{After analyzing previous encounters, it is clear that my success rate is higher when I dive in the same direction as the kicker's choice. Historically, I have more wins when reacting correctly to the choice of side. The pattern shows that staying aligned with the direction of the kicker, either LEFT or RIGHT, increases my odds of stopping the penalty.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Upon reviewing past data, there's a notable pattern where kicking LEFT while the goalie dives RIGHT usually ends in a goal for me. Kicking LEFT overall yields more goal wins, indicating a strategic advantage when the goalie expects a RIGHT kick.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the kicker's past tendencies, it's observed that when I chose LEFT and the kicker went LEFT, I almost always blocked the shot. However, when the kicker went RIGHT while I chose LEFT, they often scored. Similarly, whenever I chose RIGHT, whether the kicker aimed LEFT or RIGHT, they frequently scored except when the kicker went RIGHT. This trend suggests that sticking to diving LEFT might increase the likelihood of saving a goal, given the kicker\u2019s apparent weaker performance when aiming LEFT against my LEFT dive.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking closely at the past records, it's noticeable that when I pick LEFT and the goalie goes RIGHT, I score a lot more frequently. On the flip side, when I choose RIGHT, the goalie often guesses RIGHT also, resulting in many saves by the goalie. Therefore, it seems effective to choose LEFT hoping the goalie anticipates RIGHT, which has brought me more goals in the past.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the previous records, it appears that whenever the kicker opts for LEFT and I also choose LEFT, there tends to be a higher success rate for me as the goalie. Such a consistent past pattern suggests the kicker may not be as proficient shooting left when the goalie anticipates correctly.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{By reviewing past experiences, I notice that when I kick LEFT and the goalie anticipates LEFT, I usually lose. On the other hand, when I kick RIGHT and the goalie stays LEFT, I tend to score. The goalie seems to switch more frequently between diving RIGHT or staying LEFT when I kick RIGHT, which has given me better chances to score.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Considering the comprehensive record of interactions, the kicker typically scores more when I dive RIGHT for their left kicks, and less when I choose LEFT for their right kicks. Overall, when the kicker goes LEFT and I react LEFT, I have a higher success in blocking the shot. Therefore, diving LEFT seems the statistically stronger choice given the previous outcomes.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the past performances, shots on the RIGHT side have frequently been saved by the goalie when the goalie also went RIGHT. Conversely, there have been multiple successful left side kicks when the goalie chose RIGHT. Given these observations, it might be more favorable to choose LEFT hoping the goalie decides on RIGHT again.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From analyzing the records, it appears that when the kicker kicks LEFT, choosing LEFT as my dive direction has often resulted in a win for me. However, when I choose RIGHT while the kicker also kicks LEFT, the kicker often scores. Similarly, for kicks to the RIGHT, diving to the RIGHT seems effective in blocking the kicks.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{From reviewing the past interactions, it's evident that I have better success when the goalie chooses to dive opposite to my kick direction. Specifically, when my kicks are to the left and the goalie dives right, I tend to score more consistently. Given the goalie's tendency to dive in the expected direction of most of my recent shots, choosing an unexpected direction might increase my chance of scoring.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Upon reviewing the historical data on the kicker's past attempts, it appears there is a frequent pattern where the kicker often chooses LEFT, and quite successfully so when I tend to dive RIGHT. Conversely, when I choose LEFT while the kicker also goes LEFT, I have a higher rate of blocking the shot. Therefore, sticking to LEFT could potentially maximize my chances of stopping the ball based on past performances.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the pattern of wins and losses, there is a clear tendency for success when diverging from the goalie's anticipated move. Based on the data, the goalie tends to save more often when they guess the direction correctly. There are more instances where goals were scored when the goalie was expecting the opposite direction of the kick. Therefore, I should aim for the side opposite of their recent most common choice, which seems to be RIGHT, to increase my chances of scoring.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the past encounters, I noticed that each time I chose LEFT when the kicker chose LEFT, I predominantly won, suggesting this is a strong choice when predicting a LEFT kick. Similarly, choosing RIGHT when the kicker is expected to kick RIGHT has been mostly successful. There seems to be a pattern where the kicker fails to score when I accurately predict the direction based on my past successful blocks. Analyzing their preferences, the kicker often opts more for RIGHT overall, increasing success when I too choose RIGHT in those scenarios.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it appears that when I kick to the LEFT and the goalie guards RIGHT, I often score. Conversely, when I kick RIGHT, the goalie quite frequently stops my shots when they guess RIGHT. It seems the goalie is less successful at anticipating LEFT kicks correctly.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on the detailed analysis of previous shootout encounters, it appears the kicker tends to score more often when I choose RIGHT, especially when they kick LEFT. Conversely, when I match the kicker's direction, I have a higher success rate. The kicker also tends to choose RIGHT slightly more frequently. Given the kicker's past behavior and my higher success rates when choosing the same side, matching the kicker's more frequent choice could be advantageous.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it looks like while I have been fairly evenly split in success while kicking left or right, I have had a significantly higher success rate kicking to the LEFT when the goalie chooses to dive to the RIGHT. When the goalie predicts my LEFT kicks correctly, I mostly don't score. However, there seems to be more unpredictability in the goalie's response when I kick LEFT compared to when I kick RIGHT\u2014leading to more goals overall when I choose LEFT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the record of past encounters with this kicker, it looks like he tends to shoot more often to his RIGHT. My success rate is higher when I choose the same side as his kick. Given the trend, I expect the kicker might continue to favor his RIGHT, as this has been his recent common choice.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{From analyzing the past records, it's noticeable that when kicking RIGHT, the goalie often anticipates RIGHT, leading to the goalie winning most times. When the kick direction was LEFT with the goalie diving RIGHT, the majority resulted in my win. Therefore, choosing to kick LEFT might have a higher chance of success as the goalie seems less likely to anticipate LEFT correctly, especially considering recent trends.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing our past confrontations, the kicker scores more often when I dive to the RIGHT especially when they shoot LEFT. Conversely, there seems to be a higher success rate at stopping the kicker's shots when they shoot RIGHT and I also choose RIGHT. Considering the most successful outcomes, choosing RIGHT may block the kicker more effectively based on historical data.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing past experiences, I notice that I have been successful when kicking LEFT especially when the goalie dives RIGHT. Conversely, the goals scored when I kicked RIGHT and the goalie went LEFT shows a similar success. The goalie has blocked most attempts when they guessed the same side as my kick. Thus, it seems the goalie more often fails to stop the kick when they choose the opposite direction I kick.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, the kicker has a history of choosing LEFT often. When I, as the goalie, faced LEFT shots by going LEFT, I have mostly succeeded. Therefore, there is a higher chance of success if I choose LEFT, considering this pattern.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it appears that the goalie has a strong tendency to save penalties when my choice matches their anticipated dive. Specifically, the goalie has successfully saved most of the shots when diving in the same direction I kicked, both on the left and the right. However, I\u2019ve had more success scoring when kicking LEFT while the goalie dives RIGHT. Therefore, it might be beneficial to aim LEFT, hoping the goalie anticipates a RIGHT kick based on previous patterns.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the historical data, it appears whenever I chose LEFT and the kicker went LEFT, I had a high success rate in stopping the ball. The kicker tends to score more often when shooting LEFT and I dive RIGHT. On the other hand, the kicker scored several times when I chose LEFT and he went RIGHT. Therefore, diving LEFT when the kicker shoots LEFT seems more effective, based on our past encounters.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Considering the past data, when I've kicked LEFT and the goalie guessed RIGHT, I consistently scored. In contrast, the goalkeeper often saves when their guess matches my kick direction. This suggests that changing my regular pattern or going LEFT might increase my chances, as lately, the goalie has been better at predicting RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Examining the previous records, it is evident that when the kicker chooses LEFT and I dive LEFT, I am quite successful in saving the goals. Similarly, when the kicker goes RIGHT and I choose RIGHT, I also have a good track record of saving. The pattern suggests that mirroring the kicker's side often results in a successful save.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Considering the historical data from past shootouts, kicks to the LEFT have generally been less successful when the goalie also dives LEFT. However, when kicking LEFT and the goalie dives RIGHT, the success rate improves significantly. On the other side, kicking RIGHT has frequently been countered by the goalie diving RIGHT. There seems to be a pattern where alternating the kick direction after a series of right kicks might surprise the goalie. Hence, based on recent failures on the right, a sudden change might yield a better outcome.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the historical data, when the kicker chooses LEFT and I also go LEFT, I have a high success rate. The kicker has consistently lost more when I match their kick to the LEFT. Conversely, when they kick RIGHT and I also choose RIGHT, the outcomes are still favorable but slightly less consistently victorious compared to the LEFT matchups. Since I have a higher winning rate defending against kicks to the LEFT, I should opt for this direction.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{From the historical data, it appears that when I kick LEFT and the goalie dives RIGHT, I tend to score more often. However, when I kick right, the goalie often successfully defends whether diving LEFT or RIGHT. Given my higher success rate when the goalie dives to his RIGHT and I kick LEFT, I should consider this pattern for my choice.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing past records, the kicker tends to score predominantly when I choose RIGHT against his LEFT kicks, losing multiple times in such scenarios. Conversely, when I match my direction with the kicker's (LEFT-LEFT, RIGHT-RIGHT), my success rate is considerably higher. Hence, mirroring the kicker's most frequent and recently dominant side might be the most effective strategy.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past shootouts, it appears that when I kick LEFT and the goalie chooses RIGHT, I have a significantly higher success rate. Conversely, kicking RIGHT often leads to the goalie predicting correctly and blocking the shot.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing previous shootouts, it's noticeable that the majority of the Kicker's goals when I chose RIGHT came when they kicked LEFT. When I mirror the Kicker's direction, I have a higher success rate. Latest trends also show the Kicker often chooses LEFT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{From the past records, it's evident that when the goalie anticipates my kick correctly, either left or right, they tend to block the shot successfully. However, I have a slightly higher success rate when kicking RIGHT and the goalie misjudges by going LEFT. Considering this pattern and trying to maximize my chances of scoring based on past performance, I should aim to exploit the goalie's weaker side when they expect a different direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the past records, it looks like when the kicker shoots LEFT, and I also dive LEFT, I usually win. Conversely, when the kicker shoots RIGHT, my chances are better when I dive RIGHT. The strategy seems to be diving in the same direction as the kicker's choice.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the past pattern, I can see that whenever I've kicked to the LEFT and the goalie dived to the RIGHT, I've consistently scored. Conversely, most times I kicked RIGHT and the goalie dived RIGHT, I did not score. The goalie appears more successful at stopping shots on the RIGHT. Hence, my best option to score could be to shoot LEFT in hopes the goalie guesses RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From analyzing the past records, it appears that success in diving left against a kicker aiming left is highly consistent and favorable. I find that diving left when the kicker kicks left ends in my favor almost always. On the other hand, diving right when the kicker kicks right also shows a strong pattern of success. Taking into account the kicker's pattern and my historical success rate, I should choose the side with the highest chances of stopping the kick based on past trends.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Based on the historical data, it's evident that whenever I kick left and the goalie dives right, I score. Conversely, the goalie often blocks my shot when he dives to the same side as my kick. Especially, the goalie has blocked most of my left-side kicks when diving left. Although right kicks have also been blocked frequently, there's been a slightly better tendency for me to score when the goalie guesses wrong on my right-side kicks.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on the comprehensive record, the kicker often opts for the same direction multiple times in a row. Observing the recent trends, the kicker has a slight preference for going LEFT when compared to RIGHT. My successful stops mostly align with staying committed to one side. I'll increase my chances by choosing the side that has historically seen more success against this kicker, which is moving LEFT in this case.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, I notice a pattern where I score more often when kicking LEFT and the goalie chooses RIGHT. The goalie seems to have a higher tendency to dive RIGHT recently, most likely counting on a change from my usual pattern. Given this analysis, I suspect the goalie might expect a RIGHT kick this time.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Examining the past records, it seems that my success rate is generally higher when I choose the same direction as the kicker's usual choice. The kicker frequently shoots LEFT, and when I've matched this by also going LEFT, I've won most of the time. Conversely, when the kicker chooses RIGHT and I also go RIGHT, the success rate is high. Thus, matching the kickers usual tendency seems statistically favorable.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it seems that when kicking to the LEFT while the goalie chooses LEFT, I almost always lose. Conversely, when I kick to the LEFT and the goalie goes RIGHT, I often score. When kicking to the RIGHT, my chances of scoring are higher when the goalie also decides to go LEFT, yet I get stopped a lot when we both choose RIGHT. The goalie seems to guess RIGHT often, and when he anticipates the direction correctly, it results in a loss for me. Therefore, it might be more strategic to kick LEFT, expecting the goalie might dive RIGHT based on past patterns.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past meetings, the kicker has shown a tendency to score if I dive RIGHT when they kick LEFT, and vice versa. It seems more effective when I match my dive to the kicker's chosen direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Observing the record, I notice that the goalie tends to dive in the correct direction quite successfully when I kick to the LEFT, resulting in many goals saved. Contrastingly, while the goalie predicts RIGHT with decent accuracy, their success rate on blocking my RIGHT kicks is somewhat lower as they occasionally dive to the LEFT. Therefore, kicking to the RIGHT might slightly enhance my chances of scoring based on past events.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From analyzing the past records, the kicker tends to be stopped more effectively when I, as the goalie, choose the same direction as their kick, either LEFT or RIGHT. However, looking at the instances where I've chosen LEFT while the kicker went LEFT, there seems to be a higher success rate compared to choosing RIGHT when the kicker also went RIGHT. This could suggest that I am more proficient at stopping kicks to the LEFT, either due to better reaction time or technique in that direction.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, it's observed that kicking LEFT while the goalie dives RIGHT tends to be more successful for scoring. The pattern shows the goalie often dives RIGHT after a series of kicks to the left. It might be best to exploit this by kicking LEFT now, hoping the goalie anticipates a change and dives to the RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the previous matches indicates patterns that can help inform my decision. Observationally, when the kicker shoots LEFT and I defended LEFT, I successfully blocked more often than not. When the kicker went RIGHT and I also chose RIGHT, I similarly had a high success rate. However, the kicker has often successfully scored when I chose the opposite direction to their kicking. Therefore, the best strategy seems to be matching their most likely kicking direction rather than trying to guess a switch.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, when I kick to the LEFT and the goalie dives to the LEFT, the goalie frequently blocks the shot. However, when I kick LEFT and the goalie goes RIGHT, I consistently score. The goalie seems to dive RIGHT more often when anticipating my LEFT kicks, making it a successful choice based on previous patterns.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the history of encounters between the kicker and me, it's clear that most of the time when the kicker has gone LEFT and I've also gone LEFT, I've successfully stopped the goal. In contrast, when I've chosen RIGHT while the kicker went LEFT, I have mostly failed to save the goal. For shots going RIGHT, my prediction rights match well by diving towards the RIGHT. Therefore, my best strategy based on historical data seems to be mirroring the kicker's more frequent shots for each side.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, kicking to the LEFT when the goalie dives RIGHT has consistently resulted in a goal. The trend suggests that my left kicks are effective against a right dive.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the outcomes show a pattern where the kicker most often scores when I choose the opposite of their usual direction. Notably, my success rate is higher when I align my dive with the kicker\u2019s most frequent past choice. Given the consistent results, particularly where I've matched the kicker's choice, I should continue this strategy and choose based on the kicker\u2019s likely direction, focusing on consistency from the historical data.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the record of past shots, the goalie has had more saves when both of us chose the same side. Specifically, I notice a consistent failure to score when I kick LEFT and the goalie also goes LEFT. However, when I kick RIGHT and the goalie chooses LEFT, my chances of winning are historically higher. It seems advisable to go against the pattern the goalie might anticipate based on the most frequent past outcomes.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past experiences with this kicker, the clear pattern emerges that when I choose the same side as the kicker, it mostly results in me blocking the shot. When the kicker goes LEFT, and I also choose LEFT, I have a high success rate, while choosing RIGHT when the kicker goes RIGHT is similarly effective. Conversely, diverging from the kicker's direction often leads to them scoring. Given this consistent pattern, it would be strategic to guess the same side as the kicker's most frequent choice recently.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, the goalie seems to save more penalties when I kick to the LEFT and they anticipate it by diving LEFT. Similarly, many of my RIGHT kicks have been saved when the goalie dives RIGHT. However, I have had slight success when kicking in the opposite direction the goalie tends to dive. Consequently, I might have a better chance of scoring a goal by tricking the goalie\u2019s anticipation based on the most common past dives.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking back at the records, I notice a pattern where my success rate is higher when I dive in the same direction that the kicker tends to kick. When I match my dive direction to the kicker\u2019s preferred direction, I've won most of the time. The kicker has a significant tendency to kick LEFT, and most of my successful saves on LEFT kicks happen when I also dive LEFT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Examining the past records, the goalie seems to have a strong tendency to dive in the correct direction when I kick to the LEFT, especially when they choose LEFT, leading mostly to their victory. On the other hand, when I kick RIGHT and the goalie also goes RIGHT, their success rate is high but not as much as when I kick left. My successful kicks have primarily been when the goalie guesses incorrectly. Given the records, kicking RIGHT appears to have yielded better outcomes when the goalie chooses LEFT.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Upon examining the past records, the kicker appears to have a higher tendency to choose LEFT. When I, as the goalie, chose LEFT against a left kick, I successfully blocked the majority of such kicks. Given this pattern, it might be statistically advantageous to opt for LEFT as a higher probability of win is observed in this scenario.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking at the historical data, I notice that every time I kicked LEFT and the goalie chose RIGHT, I scored. I have a higher success rate when the goalie dives to the wrong direction, obviously, but specifically, he tends to be less successful at stopping left kicks when he chooses right compared to vice versa. It might be wise to attempt a LEFT kick, assuming the goalie might guess RIGHT again given the recent pattern.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Looking at the historical data, it seems I have had more success when I match the kicker's direction, LEFT with LEFT and RIGHT with RIGHT. Each time I diverged from the direction the kicker usually took, the kicker typically scored. Therefore, replicating the kicker's direction seems like the best strategy given the past results.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Upon analyzing the historical data between myself and the goalie, it appears that when the goalie dives to the right while I kick left, I have a higher rate of scoring. The goalie has frequently guessed right when I chose left, leading to several successful goals for me.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, it seems that when I choose LEFT and the kicker goes LEFT, I have a significantly high success rate of saving the goal. The kicker tends to miss more often when trying to kick to his LEFT while I am also on my LEFT. When the kicker goes RIGHT and I choose RIGHT, the records also show a favorable outcome for me. However, since the success rate is more pronounced when both of us go LEFT, this seems like the safer option given the historical data.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Analyzing the past records, the goalie has often successfully saved the ball when I kicked left with the goalie choosing left as well. When the goalie predicted my right shots incorrectly and jumped left, I scored. Overall, the goalie seems more likely to jump left, and I have a good chance of scoring when kicking right if the goalie anticipates incorrectly. There's a pattern suggesting better success in kicking right based on the goalie's past tendency to misjudge that direction.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the pattern in the past encounters, it appears that most times when the kicker kicked LEFT and I chose LEFT as well, I won the shootout. Similarly, choosing RIGHT when the kicker chose RIGHT often resulted in my success. There seems to be a strong pattern in sticking to the same direction as the kicker.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past performances, it's clear that when I kick to the RIGHT and the goalie also goes to the RIGHT, the goalie frequently wins. On the other hand, when I kick to the LEFT and the goalie chooses RIGHT, I have a much higher chance of scoring. Therefore, the best strategy might be to try kicking to the LEFT, hoping the goalie will predict a RIGHT direction.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the past records, it appears that my success rate in stopping the kicker is higher when both the kicker and I choose the same direction. Specifically, I've had consistent success when I chose LEFT and the kicker also went LEFT. The kicker has so frequently chosen LEFT and my success rate in that direction is distinctly higher than when I choose RIGHT. Therefore, sticking to LEFT could be more beneficial based on these outcomes.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, the goalie tends to save more of my shots when kicking to the left compared to the right. I have a higher success rate scoring when I choose to kick right, especially when the goalie dives to their left. This suggests that the goalie might be weaker or less prepared for shots to their right, or possibly anticipates my left shots better.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past experiences, it appears that whenever I chose LEFT and the kicker went LEFT, I successfully saved many goals. However, when I chose RIGHT and the kicker went LEFT, the chances of the kicker scoring were higher. The scenario is quite similar when the kicker chose RIGHT; I have more successful saves when I also chose RIGHT than choosing LEFT. Hence, statistically, matching my move with the kicker's more frequent choice has proven more successful.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Considering the patterns in these matchups, I notice that I have higher success when kicking LEFT and the goalie dives RIGHT. However, when I kick LEFT and the goalie also chooses LEFT or when both of us pick RIGHT, I mostly lose. Analyzing the trends, the goalie seems more inclined to dive to his LEFT (my RIGHT). I must choose my shot strategically based on these insights.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past records, it's clear that when the kicker chooses LEFT, I have a higher success rate by also choosing LEFT. Similarly, when the kicker goes RIGHT, I have typically succeeded by choosing RIGHT. The pattern suggests that mirroring the kicker's choice has been more effective historically.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past records, I noticed that the goalie tends to save more of the shots when I kick to the same side as their dive. Kicking to the opposite side of the goalie's chosen side has generally resulted in more goals. Based on the trends, changing the side away from the goalie's common choice might increase my chances of scoring.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Reviewing the past records, the pattern indicates that when I dive LEFT and the Kicker goes LEFT, I usually win. The success rate while diving RIGHT when the kicker goes LEFT is considerably lower. In case the kicker chooses RIGHT, my chance of stopping the ball is higher when I also choose RIGHT. Based on this pattern analysis, predicting the kicker might try to confuse by alternating last known choices, choosing RIGHT might be a strategically sound decision.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the history of the matches, the goalie seems to have a pattern of frequently guessing the right direction when I kick LEFT, as most LEFT kicks are blocked when the goalie also goes LEFT. My success rate increases when I kick RIGHT, particularly when the goalie chooses to dive LEFT. This indicates a potential weakness or slower reaction on their LEFT side.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on the historical data, when I choose LEFT while the kicker goes LEFT, the success rate is very high for stopping the goal. Whenever the kicker kicks RIGHT and I also pick RIGHT, I block the attempts most of the time. Thus, sticking to the same direction as the kicker's frequent past choice seems to be a successful strategy.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Looking over the past matchups, whenever I kicked LEFT and the goalie defended RIGHT, I almost always scored. In contrast, kicking RIGHT typically led the goalie to successfully block by going RIGHT as well. Thus, my best bet might be to aim LEFT, hoping the goalie opts for RIGHT based on these tendencies.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the data available, it appears that matching the kicker's direction often results in success. Judging by the trends, when I dive LEFT and the kicker chooses LEFT or when I dive RIGHT and the kicker chooses RIGHT, I often block the shot. Nevertheless, I must be cautious as the kicker has lately found success shooting LEFT when I dive RIGHT. Considering all the interactions, the best strategy might involve diversifying my moves but with a lean towards historical success rates.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\THOUGHT{Examining the historical match-up data, it's notable that the goalie has a tendency to save more when I kick to the LEFT and guess LEFT. However, when I kick to the RIGHT while the goalie also moves RIGHT, the goalie still tends to save the ball at a high rate. There is a noticeable pattern that most of my success scoring goals occurs when my kick direction does not match the goalie's diving direction. Specifically, my success rate is higher when I kick RIGHT and the goalie dives LEFT. This suggests that for this next kick, choosing RIGHT might increase my chances of scoring, anticipating that the goalie might dive LEFT based on their past behavior after consecutive RIGHT guesses.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{From the past records, it's clear that the kicker has a pattern of often choosing LEFT, and when I dived LEFT in response, I mostly saved the goals. When I chose RIGHT as the goalie while the kicker went LEFT, they often scored. The same logic applies inversely for when the kicker opts for RIGHT.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Reviewing the past experiences, it seems that I have had more success scoring when I kicked to the LEFT and the goalie dived to the RIGHT. In cases where I kicked to the RIGHT, the goalie often saved those shots, particularly when also going RIGHT. Therefore, I should consider aiming LEFT in hopes that the goalie might dive RIGHT again.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{By analyzing the past records, it appears that choosing LEFT as the diving direction when the kicker opts for LEFT has mostly led to the goalie's success. Similarly, going RIGHT when the kicker goes RIGHT has often resulted in blocking the shot. Looking at the sequences, however, it seems the kicker has been choosing RIGHT more often recently and has been scoring more when I choose LEFT in response. Therefore, matching the kicker's last few choices with my dive seems most prudent.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Considering the data from previous penalties, it appears that kicking LEFT when the goalie dives RIGHT has been very successful. The goalie often predicts RIGHT when I choose RIGHT, leading to my losing those shots. It might be advantageous to target the goalie's less covered side by choosing LEFT, contradicting his likely expectation based on the previous RIGHT trend.}\n\n\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Based on the pattern observed from past shootout experiences, it appears when I chose LEFT and the kicker chose LEFT, I generally won. However, when the kicker opted for RIGHT, and I chose LEFT, I mostly lost. It seems like matching the direction of the kicker most often leads to favorable outcomes.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\THOUGHT{Upon analyzing the previous penalty data, it is evident that most successes when kicking RIGHT occurred when the goalie chose LEFT. Conversely, choosing LEFT while the goalie chose RIGHT also resulted in several goals. The goalie seems to successfully block more often when anticipating correctly or sticking to the LEFT dive against a LEFT kick. Therefore, the strategy of kicking to the opposite side of the goalie\u2019s frequent successful dive might increase the chances of scoring.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\THOUGHT{Analyzing the past records, the kicker has shown a tendency to score more often when I have chosen RIGHT and they kicked LEFT. On the other hand, when I chose LEFT and they went RIGHT, they also succeeded frequently. However, looking at the success rate when my choice matched their direction (LEFT-LEFT and RIGHT-RIGHT), my chances of stopping the goal were noticeably higher.}\n\n\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    }
+]

@@ -1,0 +1,1097 @@
+[
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "`\\ACTION{LEFT}`"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "`\\ACTION{RIGHT}`"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\u0002\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\[ \\text{ACTION\\{RIGHT\\}} \\]"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "`\\ACTION{RIGHT}`"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "`\\ACTION{LEFT}`"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{RIGHT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{LEFT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "`\\ACTION{LEFT}`"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "`\\ACTION{RIGHT}`"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "`\\ACTION{RIGHT}`"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "\\ACTION{RIGHT}"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "\\ACTION{LEFT}"
+    },
+    {
+        "Goalie": "'\\ACTION{RIGHT}'"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "'\\ACTION{LEFT}'"
+    },
+    {
+        "Goalie": "`\\ACTION{RIGHT}`"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    }
+]

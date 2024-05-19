@@ -1,0 +1,1502 @@
+[
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "RIGHT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "LEFT",
+        "Winner": "Goalie"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "LEFT",
+        "Goalie": "RIGHT",
+        "Winner": "Kicker"
+    },
+    {
+        "Kicker": "RIGHT",
+        "Goalie": "LEFT",
+        "Winner": "Kicker"
+    }
+]
